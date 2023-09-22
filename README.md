@@ -1,1 +1,6 @@
-# datascience_assign1
+<br>1.	Import the biostats.csv file, and place it in an appropriate dataset. (0.5 point)
+<br>2.	Fetch the Age column of the dataset as an array, and use a variable to hold it. (0.5 point)
+<br>3.	Print the content of the Age column. (0.5 point)
+<br>4.	Calculate the average, standard deviation, minimum and maximum of the array, and print the result. (0.5 point)
+<br>5.	Find the 30th percentile, median, and 70th percentile of the Age column. (0.5 point)
+<br>6.	Using the Matplotlib library, please draw a histogram chart for the Age column. Please, use an appropriate title, X-label, and Y-label. Moreover, include your first name in the title, e.g. <br>Age Distribution – By Reza (0.5 point)
