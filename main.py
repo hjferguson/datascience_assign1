@@ -1,3 +1,4 @@
+#Harlan Ferguson 101133838
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
